@@ -13,11 +13,11 @@ public class MainMenuKeyPress : MonoBehaviour {
 	void Update () 
 	{
 		if (Input.GetKey (KeyCode.Space))
-			SceneManager.LoadScene ("Settings");
+			SceneManager.LoadScene ("HowToPlay");
 		if (Input.GetKey (KeyCode.S))
 			SceneManager.LoadScene ("Settings");
 		if (Input.GetKey (KeyCode.H))
-			SceneManager.LoadScene ("Settings");
+			SceneManager.LoadScene ("HighScores");
 		if (Input.GetKey (KeyCode.Q))
 			Application.Quit ();
 	}

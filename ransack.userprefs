@@ -1,9 +1,10 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SettingsPageKeyPress.cs">
+﻿<Properties StartupItem="ransack.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenuKeyPress.cs">
     <Files>
-      <File FileName="Assets\Scripts\MainMenuKeyPress.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuKeyPress.cs" Line="25" Column="1" />
       <File FileName="Assets\Scripts\SettingsPageKeyPress.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HighScoresKeyPress.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
