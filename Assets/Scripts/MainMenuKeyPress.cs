@@ -4,8 +4,9 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuKeyPress : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
+
 	
 	}
 	
