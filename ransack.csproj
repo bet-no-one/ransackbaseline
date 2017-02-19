@@ -78,9 +78,11 @@
     <Compile Include="Assets\Scripts\HighScoresKeyPress.cs" />
     <Compile Include="Assets\Scripts\HowToPlay.cs" />
     <Compile Include="Assets\Scripts\MainMenuKeyPress.cs" />
+    <Compile Include="Assets\Scripts\NPCmove.cs" />
     <Compile Include="Assets\Scripts\SettingsPageKeyPress.cs" />
     <Compile Include="Assets\Scripts\classsetup.cs" />
     <Compile Include="Assets\Scripts\playermovement.cs" />
+    <Compile Include="Assets\Scripts\swagClass.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
