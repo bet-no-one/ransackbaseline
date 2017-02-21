@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\NPCmove.cs" />
     <Compile Include="Assets\Scripts\SettingsPageKeyPress.cs" />
     <Compile Include="Assets\Scripts\classsetup.cs" />
+    <Compile Include="Assets\Scripts\currentGame.cs" />
     <Compile Include="Assets\Scripts\playermovement.cs" />
     <Compile Include="Assets\Scripts\swagClass.cs" />
   </ItemGroup>

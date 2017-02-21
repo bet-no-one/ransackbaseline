@@ -1,0 +1,49 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ransack\ransackv2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ransack\ransackv2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ransack\ransackv2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ransack\ransackv2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ransack\ransackv2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ransack\ransackv2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ransack\ransackv2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ransack\ransackv2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ransack\ransackv2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\ransack\ransackv2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\ransack\ransackv2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\ransack\ransackv2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: D:\ransack\ransackv2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ransack\ransackv2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.800437 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.204088 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 1.682701 ms (FindLiveObjects: 0.010228 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.096730 ms  DeleteObjects: 1.565806 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.763908 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.099068 ms (FindLiveObjects: 0.008182 ms CreateObjectMapping: 0.009351 ms MarkObjects: 0.079780 ms  DeleteObjects: 0.001753 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.205442 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 674.
+Total: 0.160730 ms (FindLiveObjects: 0.018995 ms CreateObjectMapping: 0.016949 ms MarkObjects: 0.116310 ms  DeleteObjects: 0.008182 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4630 -> priority: 1 

@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class playermovement : MonoBehaviour {
@@ -16,12 +17,18 @@ public class playermovement : MonoBehaviour {
     int left = Animator.StringToHash("Left player");    // referrence to player move left trigger
     int idle = Animator.StringToHash("idle player");    // reference to player idle trigger
 
+    //debug
+    public GameObject currentGame;          //GameManager prefab to instantiate.
+
     // Use this for initialization
     void Start()
     {
         anim = GetComponent<Animator>();  // when programe starts get the animator object
                                           // Get gravity setting
         gravitySetting = Physics2D.gravity;  // store current Gravity
+
+        // debug  instantiate currentGame
+        Instantiate(currentGame);
 
     }
 
@@ -81,7 +88,8 @@ public class playermovement : MonoBehaviour {
             // We can now pickup the swag if "L" pressed
             if (Input.GetKey(KeyCode.L))
             {
-                // todo: add points
+                // Add the points for that swag to the points for the current game
+               //currentGame.i += GetComponent<swagClass>().swagValue;
                 Destroy(other.gameObject);
             }
         }
@@ -131,9 +139,16 @@ public class playermovement : MonoBehaviour {
 
 
         }
-
     }
 
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("NPC"))
+        {
+            SceneManager.LoadScene("HowToPlay");
+        }
+
+    }
 }
 
 

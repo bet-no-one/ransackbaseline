@@ -12,8 +12,11 @@ public class HowToPlay : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKey(KeyCode.Q))
             SceneManager.LoadScene("MainMenu");
+        if (Input.GetKey(KeyCode.Space))
+            SceneManager.LoadScene("150217");
+
 
     }
 }

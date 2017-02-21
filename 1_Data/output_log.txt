@@ -5,7 +5,7 @@ Direct3D:
     Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
     Vendor:   NVIDIA
     VRAM:     3072 MB
-    Driver:   21.21.13.7633
+    Driver:   21.21.13.7653
 Begin MonoManager ReloadAssembly
 Platform assembly: D:\ransack\1_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading D:\ransack\1_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -19,67 +19,251 @@ Platform assembly: D:\ransack\1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll
 Loading D:\ransack\1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: D:\ransack\1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading D:\ransack\1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.073 seconds
+- Completed reload, in  0.019 seconds
 Platform assembly: D:\ransack\1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\ransack\1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.807743 ms
+UnloadTime: 0.756602 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.224252 ms
+UnloadTime: 3.206426 ms
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 276.
-Total: 1.005588 ms (FindLiveObjects: 0.013150 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.102283 ms  DeleteObjects: 0.880218 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.789624 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 276.
-Total: 0.123031 ms (FindLiveObjects: 0.010812 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.099652 ms  DeleteObjects: 0.002630 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.197844 ms
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 258.
-Total: 0.116018 ms (FindLiveObjects: 0.011397 ms CreateObjectMapping: 0.007305 ms MarkObjects: 0.089132 ms  DeleteObjects: 0.007890 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.184109 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 266.
-Total: 0.119525 ms (FindLiveObjects: 0.011397 ms CreateObjectMapping: 0.009351 ms MarkObjects: 0.094100 ms  DeleteObjects: 0.004675 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.186739 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
-Total: 0.119525 ms (FindLiveObjects: 0.012273 ms CreateObjectMapping: 0.008767 ms MarkObjects: 0.095853 ms  DeleteObjects: 0.002337 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.203104 ms
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 258.
-Total: 0.116894 ms (FindLiveObjects: 0.011397 ms CreateObjectMapping: 0.007013 ms MarkObjects: 0.090593 ms  DeleteObjects: 0.007598 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 1.703742 ms (FindLiveObjects: 0.010228 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.091762 ms  DeleteObjects: 1.592108 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.188200 ms
+UnloadTime: 0.858885 ms
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 260.
-Total: 0.715688 ms (FindLiveObjects: 0.011981 ms CreateObjectMapping: 0.007305 ms MarkObjects: 0.094100 ms  DeleteObjects: 0.602300 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.129168 ms (FindLiveObjects: 0.012273 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.104620 ms  DeleteObjects: 0.002630 ms)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.174465 ms
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 260.
-Total: 0.112803 ms (FindLiveObjects: 0.010812 ms CreateObjectMapping: 0.007013 ms MarkObjects: 0.092346 ms  DeleteObjects: 0.002045 ms)
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene '150217' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.179433 ms
+UnloadTime: 0.192584 ms
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 258.
-Total: 0.120109 ms (FindLiveObjects: 0.011397 ms CreateObjectMapping: 0.006721 ms MarkObjects: 0.091762 ms  DeleteObjects: 0.009643 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.109004 ms (FindLiveObjects: 0.009643 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.082703 ms  DeleteObjects: 0.007013 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 22dc -> priority: 1 
+  Thread -> id: 2d78 -> priority: 1 
